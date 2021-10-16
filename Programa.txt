@@ -1,0 +1,5 @@
+inicio[
+	inteiro lorena;
+	para ( lorena = 1 ; lorena > 10 ; lorena + 1 ) [ imprima foi; ]
+
+]fim
