@@ -28,7 +28,7 @@ A presente linguagem permite a declaração de variável global, a declaração 
   6. [Repetição For](#subparagraph6)
 
 ## Declaração de variável <a name="declaracao"></a>
-Nesta linguagem existem três tipos de variáveis, `inteiros`, `flutuante` e `caracter`. O `identificador` é um conjunto de letras de `a-z`, sendo maiúsculas ou minúsculas. Que são declaradas da seguinte forma:
+Nesta linguagem existem três tipos de variáveis, `inteiro`, `flutuante` e `caracter`. O `identificador` é um conjunto de letras de `a-z`, sendo maiúsculas ou minúsculas. Que são declaradas da seguinte forma:
 ```
 <tipo> identificador ;
 ```
